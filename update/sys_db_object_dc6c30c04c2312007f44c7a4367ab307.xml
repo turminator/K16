@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-17 17:43:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>dc6c30c04c2312007f44c7a4367ab307</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Lab</sys_name>
